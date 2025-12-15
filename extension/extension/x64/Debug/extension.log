@@ -1,0 +1,12 @@
+﻿  dllmain.cpp
+C:\Users\vboxuser\Downloads\sqlite_extension\extension\dllmain.cpp(16,9): warning C4603: '_WINSOCK_DEPRECATED_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+  (compiling source file '/dllmain.cpp')
+      C:\Users\vboxuser\Downloads\sqlite_extension\extension\dllmain.cpp(16,9):
+      Add macro to precompiled header instead of defining here
+      C:\Users\vboxuser\Downloads\sqlite_extension\extension\dllmain.cpp(17,1):
+      use of precompiled header
+  
+C:\Users\vboxuser\Downloads\sqlite_extension\extension\dllmain.cpp(133,24): warning C4101: 'hax': unreferenced local variable
+  (compiling source file '/dllmain.cpp')
+  
+  extension.vcxproj -> C:\Users\vboxuser\Downloads\sqlite_extension\extension\x64\Debug\extension.dll

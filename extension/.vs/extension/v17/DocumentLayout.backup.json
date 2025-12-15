@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vboxuser\\Downloads\\sqlite_extension\\extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{458CFCB5-8773-43F5-95CC-134AFB302728}|extension.vcxproj|C:\\Users\\vboxuser\\Downloads\\sqlite_extension\\extension\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{458CFCB5-8773-43F5-95CC-134AFB302728}|extension.vcxproj|solutionrelative:dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\vboxuser\\Downloads\\sqlite_extension\\extension\\dllmain.cpp",
+              "RelativeDocumentMoniker": "dllmain.cpp",
+              "ToolTip": "C:\\Users\\vboxuser\\Downloads\\sqlite_extension\\extension\\dllmain.cpp*",
+              "RelativeToolTip": "dllmain.cpp*",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-12-15T01:47:40.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
