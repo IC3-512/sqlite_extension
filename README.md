@@ -25,15 +25,32 @@ sqlite3rc.h
 https://sqlite.org/loadext.html
 
 --> change the init funciton name
-
+```
 - sqlite3_extension_init
 + sqlite3_[basename]_init
-
+```
 where basename is:
 ```
 myextension.dll
 [basename].dll
 ```
+Or call another entry point
 
 # Testing
 You can test the dll by modifying the `extension/test/test.py` and putting the new dll inside the same folder. 
+
+# Calling
+
+--> second argument is the entry point function 
+```
+SELECT load_extension('static/assets/images/blog/mydll3.dll', 'sqlite3_mydll3_init');
+```
+
+if it has the calling convension you can leave it empty
+```
+SELECT load_extension('static/assets/images/blog/mydll3.dll');
+```
+
+```
+SELECT rot13("testdata") as data;
+```
